@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 import dm4bem
 
-hauteur = 3 #hauteur 
+hauteur = 3 #hauteur appartment 
 L1 = 5 #largeur maison
 L2 =9 #longueur maison
 L3 = 2 #largeur petite pièce
